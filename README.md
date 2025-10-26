@@ -1,2 +1,2 @@
-# milenaweiershausen.github.io
+# milenaw.github.io
 Website HTML version
