@@ -6,13 +6,13 @@ permalink: /
 # If using al-folio’s about layout, these front-matter keys are used by the layout
 subtitle: Professor of Theoretical Physics & Systems Biology
 profile:
-align: right
-image: /assets/img/headshot.jpg
-image_circular: true
-address: |
-Institute of Theoretical Physics
-University of Example
-12345 City, Germany
+  align: right
+  image: /assets/img/headshot.jpg
+  image_circular: true
+  address: |
+    Institute of Theoretical Physics
+    University of Example
+    12345 City, Germany
 ---
 
 Hi, I’m **Marc**.
