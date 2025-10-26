@@ -19,6 +19,6 @@ Hi, I’m **Marc**.
 
 I work on theoretical physics and system biology problems with a focus on stochastic processes, multi-scale modeling, and data-driven inference in biological networks. My group collaborates with experimental labs to connect models with measurable phenotypes.
 
-Representative topics: non-equilibrium statistical mechanics of gene regulation, information thermodynamics in cells, and dynamics on multilayer networks.
+> Representative topics: non-equilibrium statistical mechanics of gene regulation, information thermodynamics in cells, and dynamics on multilayer networks.
 
 [Research →](/research/) · [Talks & Lectures →](/talks/) · [Contact →](/contact/)
